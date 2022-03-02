@@ -1,2 +1,2 @@
 # CLASIFICADOR
-clasificator of different steel materials using convolutional neural network 
+Clasificator of different steel materials using convolutional neural network 
